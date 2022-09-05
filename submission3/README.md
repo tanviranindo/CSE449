@@ -32,18 +32,21 @@ Year: 2020
 
 Publisher: O'Reilly
 
-### Book Link (Purchase)
+&nbsp;<br>
 
-O'Reilly - [https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
-Amazon - [https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
+### Chapter Link
+
+Chapter 9 - Microservices Using Function-as-a-Service - [https://github.com/tanviranindo/CSE449/blob/main/submission3/Chapter%209%20-%20Microservices%20Using%20Function-as-a-Service%20-%20Building%20Event-Driven%20Microservices.pdf](https://github.com/tanviranindo/CSE449/blob/main/submission3/Chapter%209%20-%20Microservices%20Using%20Function-as-a-Service%20-%20Building%20Event-Driven%20Microservices.pdf)
 
 ### Book Link (GitHub)
 
 [https://github.com/tanviranindo/CSE449/blob/main/submission3/Building%20Event-Driven%20Microservices.pdf](https://github.com/tanviranindo/CSE449/blob/main/submission3/Building%20Event-Driven%20Microservices.pdf)
 
-### Chapter Link
+### Book Link (Purchase)
 
-Chapter 9 - Microservices Using Function-as-a-Service - [https://github.com/tanviranindo/CSE449/blob/main/submission3/Chapter%209%20-%20Microservices%20Using%20Function-as-a-Service%20-%20Building%20Event-Driven%20Microservices.pdf](https://github.com/tanviranindo/CSE449/blob/main/submission3/Chapter%209%20-%20Microservices%20Using%20Function-as-a-Service%20-%20Building%20Event-Driven%20Microservices.pdf)
+O'Reilly: [https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
+
+Amazon: [https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
 
 &nbsp;<br>
 
