@@ -1,6 +1,50 @@
 ## Assignment-3 | Book Review
 
-Link to unlisted youtube video:
+### Link to unlisted youtube video:
 
-Submitter:
+Link to unlisted youtube video: [https://youtu.be/\*](https://youtu.be/*)
+
+&nbsp;<br>
+
+### Public Link
+
+Public link to the Concept Map (anyone on the internet can view without login):
+PNG: [https://github.com/tanviranindo/CSE449/blob/main/submission3/\*](https://github.com/tanviranindo/CSE449/blob/main/submission3/*)
+PDF: [https://github.com/tanviranindo/CSE449/blob/main/submission3/\*](https://github.com/tanviranindo/CSE449/blob/main/submission3/*)
+SVG: [https://github.com/tanviranindo/CSE449/blob/main/submission3/\*](https://github.com/tanviranindo/CSE449/blob/main/submission3/*)
+Original: [https://lucid.app/lucidspark/66f4f518-ed11-476f-901a-3d0e3d2ab250/view](https://lucid.app/lucidspark/66f4f518-ed11-476f-901a-3d0e3d2ab250/view)
+
+&nbsp;<br>
+
+### Book Details
+
+Name: Building Event-Driven Microservices: Leveraging Organizational Data at Scale
+Author: Adam Bellemare
+Edition: 1st edition,
+Year: 2020
+Publisher: O'Reilly
+
+&nbsp;<br>
+
+### Book Link (Purchase)
+
+O'Reilly - [https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/](https://www.oreilly.com/library/view/building-event-driven-microservices/9781492057888/)
+Amazon - [https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
+
+### Book Link (GitHub)
+
+[https://github.com/tanviranindo/CSE449/blob/main/submission3/\*](https://github.com/tanviranindo/CSE449/blob/main/submission3/*)
+
+### Chapter Link
+
+Chapter 9 - Microservices Using Function-as-a-Service - [https://github.com/tanviranindo/CSE449/blob/main/submission3/\*](https://github.com/tanviranindo/CSE449/blob/main/submission3/*)
+
+&nbsp;<br>
+
+### Group Number
+
+5
+
+### Group Member
+
 19101268 Tanvir Rahman
