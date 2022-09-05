@@ -1,7 +1,11 @@
 ## Assignment-1 | HPC Shell
 
-Link to unlisted youtube video:
-https://youtu.be/V4tmknBvFRw
+### Youtube
 
-Submitter:
+Link to unlisted youtube video: [https://youtu.be/V4tmknBvFRw](https://youtu.be/V4tmknBvFRw)
+
+&nbsp;<br>
+
+### Submitted By:
+
 19101268 Tanvir Rahman
