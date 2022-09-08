@@ -32,6 +32,7 @@ Did:
 
 - Participated in Therap JavaFest and Secured to Top 12
 - Courses in Datacamp using tanvir.rahman1@g.bracu.ac.bd
+- Writing a gpaper regarding Microfrontend - [A Comparative Study on Micro-Frontends Using Microservice Architecture in Frontend Development](https://www.overleaf.com/read/pqswhjwhkvsr)
 
 Active in slack:
 
