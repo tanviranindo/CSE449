@@ -1,6 +1,6 @@
 ## Assignment-6 | Extra Credit Bonus
 
-Completed coursera course using email
+Completed coursera course using email (audited)
 tanviranindo@gmail.com
 
 - https://www.coursera.org/learn/introduction-to-bash-shell-scripting
@@ -30,9 +30,9 @@ Did project:
 
 Did:
 
-- Participated in Therap JavaFest and Secured to Top 12
+- [Participated in Therap JavaFest and Secured to Top 12](https://www.facebook.com/photo/?fbid%3D170385428880186%26set%3Dpcb.170386192213443)
 - Courses in Datacamp using tanvir.rahman1@g.bracu.ac.bd
-- Writing a gpaper regarding Microfrontend - [A Comparative Study on Micro-Frontends Using Microservice Architecture in Frontend Development](https://www.overleaf.com/read/pqswhjwhkvsr)
+- Writing a thesis paper regarding Microfrontend - [A Comparative Study on Micro-Frontends Using Microservice Architecture in Frontend Development](https://www.overleaf.com/read/pqswhjwhkvsr)
 
 Active in slack:
 
