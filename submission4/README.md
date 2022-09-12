@@ -6,7 +6,7 @@ https://popl23src.hotcrp.com/paper/1?cap=hcav1gYhkChCdbPJuBmRaeMoWFWzB
 
 ### Paper Title:
 
-Lightweight Distributed File System For Local Networks
+[Lightweight Distributed File System For Local Networks](Lightweight%20Distributed%20File%20System%20For%20Local%20Networks.pdf)
 
 ### Paper Submission Date (to workshop/conference):
 
