@@ -16,11 +16,11 @@ https://popl23src.hotcrp.com/doc/popl23src-paper2.pdf
 
 https://www.overleaf.com/read/dnrzbzgygycm
 
-### Paper Submission Date (to workshop/conference):
+### Submission Date (ALTA):
 
 11 September 2022
 
-### Paper Due Date (to workshop/conference):
+### Complete Paper Due Date:
 
 12 November 2022
 
