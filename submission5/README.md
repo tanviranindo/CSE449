@@ -20,6 +20,10 @@ https://www.overleaf.com/read/dnrzbzgygycm
 
 11 September 2022
 
+### Paper Due Date (to workshop/conference):
+
+12 November 2022
+
 ### Conference Name:
 
 POPL 2023 Student Research Competition (POPL 2023 SRC)
